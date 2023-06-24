@@ -11,3 +11,6 @@ Acceptance Criteria:
    * Write standalone function
    * auto generate doc string for module and function
    * %% Generated Complete Pytest for the core module
+Screenshots:
+![image](https://github.com/rravicha/michack/assets/41452724/b15c4723-43a7-49f6-a0e3-752cd4707e0d)
+
